@@ -38,7 +38,7 @@ jobs:
           SITE_URL: ${{ inputs.site-url }}
         run: |
           npm install react-icons --save
-          npm run dev
+          npm run build
 
 # Please do not touch the following action
       - name: Store deployment content
