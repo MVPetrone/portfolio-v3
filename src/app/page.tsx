@@ -1,11 +1,11 @@
-"use client";
-import { useEffect, useState } from "react";
-import Navbar from "./components/NavBar"; // Import the Navbar
-import Link from "next/link";
+"use client"
+import { useEffect, useState } from "react"
+import Navbar from "./components/NavBar"
+import Link from "next/link"
 
-import { FaPython, FaReact, FaNodeJs, FaGit, FaGithub, FaEnvelope, FaLinkedin } from "react-icons/fa";
-import { SiJavascript, SiTypescript, SiNextdotjs, SiTailwindcss, SiSqlite, SiAirtable } from "react-icons/si";
-import { AiOutlineRobot } from "react-icons/ai";
+import { FaPython, FaReact, FaNodeJs, FaGit, FaGithub, FaEnvelope, FaLinkedin } from "react-icons/fa"
+import { SiJavascript, SiTypescript, SiNextdotjs, SiTailwindcss, SiSqlite, SiAirtable } from "react-icons/si"
+import { AiOutlineRobot } from "react-icons/ai"
 
 const contactMethods = [
   {
