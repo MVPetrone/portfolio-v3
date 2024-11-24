@@ -1,5 +1,5 @@
 "use client";
-import Navbar from "../components/NavBar"; // Import the Navbar component
+import Navbar from "../_components/NavBar"; // Import the Navbar component
 
 const projects = [
   {

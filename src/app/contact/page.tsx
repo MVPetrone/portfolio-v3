@@ -1,6 +1,6 @@
-"use client";
-import Navbar from "../components/NavBar"; // Import Navbar component
-import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
+"use client"
+import Navbar from "../_components/NavBar"
+import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa"
 
 const contactMethods = [
   {

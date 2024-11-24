@@ -1,5 +1,5 @@
 "use client";
-import Navbar from "../components/NavBar"; // Import Navbar component
+import Navbar from "../_components/NavBar"; // Import Navbar component
 import { FaPython, FaReact, FaNodeJs, FaGit } from "react-icons/fa";
 import { SiJavascript, SiTypescript, SiNextdotjs, SiTailwindcss, SiSqlite, SiAirtable } from "react-icons/si";
 import { AiOutlineRobot } from "react-icons/ai";

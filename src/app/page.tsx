@@ -1,6 +1,6 @@
 "use client"
 import { useEffect, useState } from "react"
-import Navbar from "./components/NavBar"
+import Navbar from "./_components/NavBar"
 import Link from "next/link"
 
 import { FaPython, FaReact, FaNodeJs, FaGit, FaGithub, FaEnvelope, FaLinkedin } from "react-icons/fa"

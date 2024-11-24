@@ -1,5 +1,5 @@
 "use client";
-import Navbar from "../components/NavBar"; // Import Navbar component
+import Navbar from "../_components/NavBar"; // Import Navbar component
 
 const experiences = [
   {
